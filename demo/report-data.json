@@ -1,0 +1,2546 @@
+{
+  "meta": {
+    "reportMonth": "2026-05",
+    "range": {
+      "from": "2026-05-01",
+      "to": "2026-05-31",
+      "prevFrom": "2026-04-01",
+      "prevTo": "2026-04-30"
+    },
+    "generatedAt": "2026-06-02T09:00:00.000Z",
+    "locale": "en-US",
+    "branding": {
+      "productName": "Lighthouse Local",
+      "tagline": "Local Search & Reputation",
+      "accent": "#15554a",
+      "accentSoft": "#ecf2ee",
+      "logoUrl": null,
+      "sampleNote": "Sample report — all data illustrative"
+    },
+    "business": {
+      "name": "Bluebird Heating & Air",
+      "locationLabel": "Boulder, Colorado"
+    },
+    "targets": {
+      "response_rate": 0.8,
+      "visibility": 25
+    }
+  },
+  "reviews": {
+    "metrics": {
+      "period": {
+        "from": "2026-05-01",
+        "to": "2026-05-31"
+      },
+      "filters": {},
+      "totals": {
+        "total_reviews": 46,
+        "avg_rating": 4.72,
+        "responded": 29,
+        "response_rate": 0.6304,
+        "star_distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 7,
+          "5": 37
+        },
+        "sentiment_distribution": {
+          "positive": 44,
+          "neutral": 1,
+          "negative": 1
+        }
+      },
+      "comparison": {
+        "period": {
+          "from": "2026-04-01",
+          "to": "2026-04-30"
+        },
+        "totals": {
+          "total_reviews": 42,
+          "avg_rating": 4.74,
+          "responded": 21,
+          "response_rate": 0.5,
+          "star_distribution": {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 4,
+            "5": 36
+          },
+          "sentiment_distribution": {
+            "positive": 40,
+            "neutral": 0,
+            "negative": 2
+          }
+        },
+        "deltas": {
+          "total_reviews": {
+            "absolute": 4,
+            "percent": 9.52
+          },
+          "avg_rating": {
+            "absolute": -0.02,
+            "percent": -0.42
+          },
+          "response_rate": {
+            "absolute": 0.1304,
+            "percent": 26.08
+          }
+        }
+      },
+      "deltas": {
+        "total_reviews": {
+          "absolute": 4,
+          "percent": 9.52
+        },
+        "avg_rating": {
+          "absolute": -0.02,
+          "percent": -0.42
+        },
+        "response_rate": {
+          "absolute": 0.1304,
+          "percent": 26.08
+        }
+      }
+    },
+    "insights": {
+      "id": 9100,
+      "period_start": "2026-05-01",
+      "period_end": "2026-05-31",
+      "status": "completed",
+      "review_count": 46,
+      "text_review_count": 38,
+      "analysis": {
+        "executive_summary": "Customers consistently single out installation quality and honest pricing — the two themes behind this month’s 4.7-star average. The pattern to watch is scheduling: spring-rush wait times generated every piece of critical feedback this month, and review responses, while improving, still trail the 80% benchmark for top-rated home-service businesses.",
+        "confidence": "high",
+        "insights": {
+          "top_strength": "Installation quality is your reputation engine: 19 of 38 written reviews this month praise the crew’s workmanship, punctuality, or cleanliness.",
+          "biggest_concern": "Scheduling friction during the spring rush — every sub-4-star review this month mentions wait times or unreturned calls.",
+          "competitive_advantage": "You are the only top-ranked installer in the area whose reviews repeatedly mention rebate paperwork being handled for the customer — a differentiator worth promoting.",
+          "improvement_opportunity": "Lifting review responses from 63% to the 80% benchmark is the fastest available gain — unanswered reviews are concentrated on Yelp and Facebook.",
+          "benchmark_note": "Your 4.7★ average sits above the 4.3★ median for HVAC contractors in Boulder County.",
+          "sentiment_trend": "stable",
+          "response_priority": "Respond first to the 17 unanswered reviews from the last 90 days, starting with the two that mention scheduling.",
+          "customer_satisfaction_score": 4.7
+        },
+        "themes": {
+          "positive": [
+            {
+              "topic": "Installation workmanship",
+              "count": 19,
+              "percentage": 50,
+              "trend": "stable",
+              "impact": "high",
+              "sample_quote": "The crew left the utility room cleaner than they found it."
+            },
+            {
+              "topic": "Honest, transparent pricing",
+              "count": 14,
+              "percentage": 37,
+              "trend": "growing",
+              "impact": "high",
+              "sample_quote": "The final invoice matched the estimate to the dollar."
+            },
+            {
+              "topic": "Rebates handled for the customer",
+              "count": 8,
+              "percentage": 21,
+              "trend": "growing",
+              "impact": "medium",
+              "sample_quote": "They walked us through the rebate paperwork."
+            }
+          ],
+          "negative": [
+            {
+              "topic": "Spring-rush scheduling delays",
+              "count": 4,
+              "percentage": 11,
+              "trend": "new",
+              "impact": "medium",
+              "priority": "high",
+              "sample_quote": "Getting on the calendar took almost three weeks."
+            }
+          ]
+        },
+        "keywords": {
+          "positive": [
+            {
+              "phrase": "professional install",
+              "count": 14
+            },
+            {
+              "phrase": "fair price",
+              "count": 11
+            },
+            {
+              "phrase": "on time",
+              "count": 9
+            },
+            {
+              "phrase": "clean work",
+              "count": 8
+            },
+            {
+              "phrase": "knowledgeable",
+              "count": 7
+            }
+          ],
+          "negative": [
+            {
+              "phrase": "waited weeks",
+              "count": 3
+            },
+            {
+              "phrase": "had to call twice",
+              "count": 2
+            }
+          ]
+        },
+        "categories": [
+          {
+            "name": "Installation quality",
+            "score": 92,
+            "delta": 3,
+            "trend": "improving",
+            "mentions": 19,
+            "strength": true,
+            "sentiment": {
+              "positive": 95,
+              "neutral": 5,
+              "negative": 0
+            },
+            "confidence": "high",
+            "action_note": "Keep publishing before/after photos of installs — reviewers reference them.",
+            "sample_quote": "House held 70° through the last cold snap.",
+            "previous_score": 89
+          },
+          {
+            "name": "Pricing & value",
+            "score": 88,
+            "delta": 2,
+            "trend": "stable",
+            "mentions": 14,
+            "strength": true,
+            "sentiment": {
+              "positive": 93,
+              "neutral": 7,
+              "negative": 0
+            },
+            "confidence": "high",
+            "action_note": "Quote-to-invoice accuracy is being noticed; make the guarantee explicit on the website.",
+            "sample_quote": "Transparent pricing, no surprises.",
+            "previous_score": 86
+          },
+          {
+            "name": "Communication",
+            "score": 74,
+            "delta": -6,
+            "trend": "declining",
+            "mentions": 11,
+            "strength": false,
+            "sentiment": {
+              "positive": 64,
+              "neutral": 18,
+              "negative": 18
+            },
+            "confidence": "medium",
+            "action_note": "Confirmation calls are falling through during the rush; add an automated booking confirmation.",
+            "sample_quote": "I had to call twice to confirm the date.",
+            "previous_score": 80
+          },
+          {
+            "name": "Scheduling & timeliness",
+            "score": 70,
+            "delta": -8,
+            "trend": "declining",
+            "mentions": 9,
+            "strength": false,
+            "sentiment": {
+              "positive": 56,
+              "neutral": 22,
+              "negative": 22
+            },
+            "confidence": "medium",
+            "action_note": "Publish realistic lead times on the booking page so expectations are set before the call.",
+            "sample_quote": "Three weeks to get on the calendar.",
+            "previous_score": 78
+          }
+        ],
+        "review_score": {
+          "overall": 86,
+          "previous": 82,
+          "delta": 4,
+          "components": {
+            "rating_score": {
+              "value": 94,
+              "delta": 0
+            },
+            "response_score": {
+              "value": 63,
+              "delta": 13
+            },
+            "sentiment_score": {
+              "value": 96,
+              "delta": 1
+            }
+          }
+        },
+        "quick_wins": [
+          {
+            "action": "Reply to the 17 unanswered reviews from the last 90 days — start with the two that mention scheduling.",
+            "effort": "quick_win",
+            "data_points": 17,
+            "category_link": "Communication"
+          },
+          {
+            "action": "Add neighborhood names (North Boulder, Gunbarrel, Louisville) to your Google Business Profile service descriptions.",
+            "effort": "quick_win",
+            "data_points": 0,
+            "category_link": null
+          },
+          {
+            "action": "Upload photos from the last five installs to your profile — reviews that mention photos convert better.",
+            "effort": "quick_win",
+            "data_points": 5,
+            "category_link": "Installation quality"
+          }
+        ],
+        "action_tracking": [
+          {
+            "previous_recommendation": "Respond to every new review within 48 hours",
+            "current_status": "improving",
+            "progress_percentage": 65,
+            "verdict": "Response rate climbed from 50% to 63% — keep pushing toward the 80% benchmark.",
+            "evidence": "29 of 46 May reviews received a response, up from 21 of 42 in April."
+          },
+          {
+            "previous_recommendation": "Ask recent install customers for a Google review",
+            "current_status": "resolved",
+            "progress_percentage": 100,
+            "verdict": "Done — review volume grew 9.5% month over month, almost entirely on Google.",
+            "evidence": "46 new reviews in May vs 42 in April."
+          }
+        ],
+        "recommendations": {
+          "immediate": {
+            "title": "Close the review-response gap",
+            "action": "Respond to the 17 unanswered reviews, then hold the 48-hour response rule through the summer rush.",
+            "description": "Response rate is 63% against an 80% benchmark; unanswered reviews cluster on Yelp and Facebook.",
+            "impact": "Directly lifts the response component of your review score (currently 63/100).",
+            "urgency": "high",
+            "effort": "quick_win",
+            "data_points": 17,
+            "category_link": "Communication"
+          },
+          "short_term": {
+            "title": "Fix peak-season scheduling communication",
+            "action": "Add automated booking confirmations and publish current lead times on the booking page.",
+            "description": "Every critical review this month traces back to scheduling friction, not workmanship.",
+            "impact": "Removes the single source of negative feedback; protects the 4.7★ average into the busy season.",
+            "urgency": "high",
+            "effort": "moderate",
+            "data_points": 4,
+            "category_link": "Scheduling & timeliness"
+          },
+          "long_term": {
+            "title": "Turn the maintenance plan into a review engine",
+            "action": "Add a review ask to the post-visit follow-up for maintenance-plan customers (2 visits/year each).",
+            "description": "Plan customers are your happiest segment but rarely review twice; a seasonal touchpoint changes that.",
+            "impact": "A steady source of fresh reviews — recency is a local ranking factor.",
+            "urgency": "medium",
+            "effort": "major_initiative",
+            "data_points": 0,
+            "category_link": null
+          }
+        },
+        "source_analysis": [
+          {
+            "source": "Google",
+            "review_count": 38,
+            "avg_rating": 4.8,
+            "response_rate": 68,
+            "trend": "growing",
+            "top_theme": "Installation workmanship",
+            "notable": "Google drives 83% of your review volume — and is the only source feeding your map rankings.",
+            "action": "Keep the post-install review ask focused on Google."
+          },
+          {
+            "source": "Yelp",
+            "review_count": 5,
+            "avg_rating": 4.2,
+            "response_rate": 40,
+            "trend": "stable",
+            "top_theme": "Pricing & value",
+            "notable": "Both scheduling complaints this month landed on Yelp; neither has a response yet.",
+            "action": "Respond to the two open Yelp reviews this week."
+          },
+          {
+            "source": "Facebook",
+            "review_count": 3,
+            "avg_rating": 4.7,
+            "response_rate": 33,
+            "trend": "stable",
+            "top_theme": "Maintenance plan",
+            "notable": "Low volume but high intent — reviewers reference being repeat customers.",
+            "action": "Cross-post install photos here; it costs nothing."
+          }
+        ],
+        "temporal_patterns": {
+          "monthly_trend": [
+            {
+              "month": "Dec 2025",
+              "volume": 28,
+              "avg_rating": 4.6,
+              "sentiment_score": 91
+            },
+            {
+              "month": "Jan 2026",
+              "volume": 31,
+              "avg_rating": 4.7,
+              "sentiment_score": 93
+            },
+            {
+              "month": "Feb 2026",
+              "volume": 27,
+              "avg_rating": 4.8,
+              "sentiment_score": 95
+            },
+            {
+              "month": "Mar 2026",
+              "volume": 35,
+              "avg_rating": 4.7,
+              "sentiment_score": 94
+            },
+            {
+              "month": "Apr 2026",
+              "volume": 42,
+              "avg_rating": 4.7,
+              "sentiment_score": 92
+            },
+            {
+              "month": "May 2026",
+              "volume": 46,
+              "avg_rating": 4.7,
+              "sentiment_score": 96
+            }
+          ],
+          "day_of_week": {
+            "insight": null,
+            "best_day": null,
+            "worst_day": null
+          },
+          "seasonal_note": "Review volume tracks install season; expect the June–August peak to add 50+ reviews."
+        }
+      },
+      "organization_id": 0,
+      "location_id": 0
+    },
+    "highlights": [
+      {
+        "organization_id": 0,
+        "location_id": 0,
+        "identifier": "9001",
+        "verified": true,
+        "reply_url": null,
+        "reply_published_on": "2026-05-27T16:08:18+00:00",
+        "review_updated_on": null,
+        "id": 9001,
+        "source": "Google",
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "title": null,
+        "message": "Bluebird replaced our 20-year-old furnace with a cold-climate heat pump and the difference is night and day. The crew showed up on time, walked us through the rebate paperwork, and left the utility room cleaner than they found it. House held 70° through the last cold snap.",
+        "responded": true,
+        "reply_message": "Thank you Sarah! Enjoy the new system, and remember the first maintenance visit is on us next spring.",
+        "published_on": "2026-05-27T16:08:18+00:00"
+      },
+      {
+        "organization_id": 0,
+        "location_id": 0,
+        "identifier": "9002",
+        "verified": true,
+        "reply_url": null,
+        "reply_published_on": "2026-05-19T05:17:55+00:00",
+        "review_updated_on": null,
+        "id": 9002,
+        "source": "Google",
+        "author": "James Okafor",
+        "rating": 5,
+        "title": null,
+        "message": "From quote to finished installation in nine days. Transparent pricing — the final invoice matched the estimate to the dollar — and the technician took the time to set up the smart thermostat schedules with us before leaving.",
+        "responded": true,
+        "reply_message": "Thanks James, glad the schedule worked out. Call us any time.",
+        "published_on": "2026-05-19T05:17:55+00:00"
+      },
+      {
+        "organization_id": 0,
+        "location_id": 0,
+        "identifier": "9003",
+        "verified": true,
+        "reply_url": null,
+        "reply_published_on": null,
+        "review_updated_on": null,
+        "id": 9003,
+        "source": "Yelp",
+        "author": "Dana Whitfield",
+        "rating": 4,
+        "title": "Great work, slow to schedule",
+        "message": "The installation itself was excellent and the price was fair. Only complaint is that getting on the calendar took almost three weeks in the spring rush, and I had to call twice to confirm the date.",
+        "responded": false,
+        "reply_message": null,
+        "published_on": "2026-05-12T11:40:00+00:00"
+      },
+      {
+        "organization_id": 0,
+        "location_id": 0,
+        "identifier": "9004",
+        "verified": true,
+        "reply_url": null,
+        "reply_published_on": "2026-05-06T09:30:00+00:00",
+        "review_updated_on": null,
+        "id": 9004,
+        "source": "Facebook",
+        "author": "Robert Chen",
+        "rating": 5,
+        "title": null,
+        "message": "Second year on their maintenance plan. They call me to schedule the tune-up before I remember it myself, and the AC has never run better. Honest company — they told me a repair could wait instead of selling me a replacement.",
+        "responded": true,
+        "reply_message": "Appreciate the trust, Robert — see you in the fall for the furnace check.",
+        "published_on": "2026-05-06T09:30:00+00:00"
+      }
+    ],
+    "gbp": {
+      "metrics": {
+        "data": {
+          "period": {
+            "from": "2026-05-01",
+            "to": "2026-05-31"
+          },
+          "totals": {
+            "impressions_total": 8540,
+            "impressions_search": 5120,
+            "impressions_maps": 3420,
+            "impressions_desktop": 3210,
+            "impressions_mobile": 5330,
+            "call_clicks": 142,
+            "website_clicks": 318,
+            "direction_requests": 86
+          },
+          "previous_period": {
+            "from": "2026-04-01",
+            "to": "2026-04-30",
+            "totals": {
+              "impressions_total": 7610,
+              "impressions_search": 4690,
+              "impressions_maps": 2920,
+              "impressions_desktop": 2950,
+              "impressions_mobile": 4660,
+              "call_clicks": 118,
+              "website_clicks": 274,
+              "direction_requests": 71
+            }
+          }
+        },
+        "meta": {}
+      },
+      "searchTerms": {
+        "data": [
+          {
+            "keyword": "hvac repair near me",
+            "impressions": 940,
+            "below_threshold": false
+          },
+          {
+            "keyword": "heat pump installation boulder",
+            "impressions": 720,
+            "below_threshold": false
+          },
+          {
+            "keyword": "furnace replacement cost",
+            "impressions": 510,
+            "below_threshold": false
+          },
+          {
+            "keyword": "bluebird heating",
+            "impressions": 380,
+            "below_threshold": false
+          },
+          {
+            "keyword": "ac tune up boulder",
+            "impressions": 260,
+            "below_threshold": false
+          },
+          {
+            "keyword": "emergency furnace repair",
+            "impressions": 190,
+            "below_threshold": false
+          }
+        ],
+        "meta": {
+          "total": 6
+        }
+      }
+    }
+  },
+  "lsg": {
+    "scanUuid": "00000000-0000-0000-0000-000000000000",
+    "primaryKeyword": "heat pump installation",
+    "meta": {
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "location": "Bluebird Heating & Air",
+      "address": "2475 Pearl St, Boulder, CO 80302",
+      "keyword": "heat pump installation",
+      "keywords": [
+        "heat pump installation",
+        "hvac repair boulder",
+        "furnace replacement"
+      ],
+      "type": "est",
+      "grid_size": 3,
+      "distance": 15,
+      "distance_unit": "km",
+      "target_place_id": "demo-place-id",
+      "target_place_lat": "40.015",
+      "target_place_lng": "-105.2705",
+      "is_scheduled": true,
+      "frequency": "monthly",
+      "next_run_at": null,
+      "is_running": false,
+      "started_at": "2026-05-18T07:08:06+00:00",
+      "completed_at": "2026-05-18T07:08:59+00:00",
+      "failed_at": null,
+      "error_message": null,
+      "summary": {
+        "average_rank": 8.44,
+        "top_3_count": 17,
+        "top_4_to_10_count": 61,
+        "not_ranking_count": 33
+      },
+      "report_url": null,
+      "available_snapshots": [
+        "2025-12-23T13:29:26+00:00",
+        "2026-01-26T08:05:20+00:00",
+        "2026-01-26T14:05:22+00:00",
+        "2026-03-02T08:06:03+00:00",
+        "2026-03-02T14:06:10+00:00",
+        "2026-04-06T07:06:13+00:00",
+        "2026-04-06T13:06:35+00:00",
+        "2026-04-08T12:12:14+00:00",
+        "2026-04-13T07:20:49+00:00",
+        "2026-04-13T13:21:30+00:00",
+        "2026-04-13T19:21:37+00:00",
+        "2026-04-14T01:36:08+00:00",
+        "2026-04-14T07:50:53+00:00",
+        "2026-04-14T13:51:39+00:00",
+        "2026-04-14T20:06:50+00:00",
+        "2026-04-15T02:06:52+00:00",
+        "2026-04-15T08:21:08+00:00",
+        "2026-04-15T14:21:33+00:00",
+        "2026-04-15T20:21:48+00:00",
+        "2026-04-16T02:36:02+00:00",
+        "2026-04-16T08:51:20+00:00",
+        "2026-05-18T07:08:06+00:00"
+      ],
+      "created_at": "2025-12-23T13:29:26+00:00",
+      "updated_at": "2026-05-18T07:08:59+00:00"
+    },
+    "snapshotAt": "2026-05-18T07:08:06+00:00",
+    "insights": {
+      "scan_uuid": "00000000-0000-0000-0000-000000000000",
+      "snapshot_at": "2026-05-18 07:08:06",
+      "keyword": null,
+      "summary": {
+        "avg_rank": 8.4,
+        "visibility_score": 10.2,
+        "top_3_pins": 17,
+        "top_10_pins": 78,
+        "not_ranking": 0,
+        "total_pins": 111,
+        "best_rank": 1,
+        "worst_rank": 21
+      },
+      "trends_vs_first_snapshot": {
+        "start_avg": 10.3,
+        "current_avg": 8.4,
+        "change": -1.9,
+        "improved": true,
+        "percent_change": 18.4,
+        "snapshot_count": 22,
+        "first_snapshot_at": "2025-12-23T13:29:26+00:00",
+        "last_snapshot_at": "2026-05-18T07:08:06+00:00"
+      },
+      "trends_vs_previous_snapshot": {
+        "previous_snapshot_at": "2026-04-16 08:51:20",
+        "avg_rank_change": 0.8,
+        "visibility_change": -2.3,
+        "top_3_change": -3,
+        "top_10_change": 14,
+        "previous_summary": {
+          "avg_rank": 9.2,
+          "visibility_score": 12.5,
+          "top_3_pins": 20,
+          "top_10_pins": 64
+        },
+        "geographic": {
+          "north": {
+            "visibility_change": 2.7,
+            "previous_visibility": 8.1
+          },
+          "south": {
+            "visibility_change": -9.7,
+            "previous_visibility": 21.6
+          },
+          "east": {
+            "visibility_change": 1.7,
+            "previous_visibility": 5.3
+          },
+          "west": {
+            "visibility_change": -5.2,
+            "previous_visibility": 17.5
+          }
+        }
+      },
+      "geographic_strength": {
+        "north": {
+          "label": "North",
+          "pins": 15,
+          "ranked": 15,
+          "avg_rank": 10.3,
+          "coverage": 100,
+          "visibility": 10.8
+        },
+        "south": {
+          "label": "South",
+          "pins": 15,
+          "ranked": 15,
+          "avg_rank": 5.3,
+          "coverage": 100,
+          "visibility": 11.9
+        },
+        "east": {
+          "label": "East",
+          "pins": 39,
+          "ranked": 39,
+          "avg_rank": 9.9,
+          "coverage": 100,
+          "visibility": 7
+        },
+        "west": {
+          "label": "West",
+          "pins": 42,
+          "ranked": 42,
+          "avg_rank": 7.5,
+          "coverage": 100,
+          "visibility": 12.3
+        }
+      },
+      "top_competitors": [
+        {
+          "name": "Apex Mountain Air",
+          "address": "",
+          "rating": 4.5,
+          "reviews": 22,
+          "avg_rank": 1.1,
+          "coverage": 44,
+          "visibility": 43.4,
+          "top_3_count": 49,
+          "top_10_count": 49,
+          "threat_score": 44.1
+        },
+        {
+          "name": "Front Range Mechanical",
+          "address": "2890 Valmont Rd, Boulder, CO",
+          "rating": 4.7,
+          "reviews": 76,
+          "avg_rank": 6.8,
+          "coverage": 82,
+          "visibility": 22.5,
+          "top_3_count": 48,
+          "top_10_count": 64,
+          "threat_score": 50.5
+        },
+        {
+          "name": "Flatiron Plumbing & Heating",
+          "address": "",
+          "rating": 4.8,
+          "reviews": 78,
+          "avg_rank": 1.6,
+          "coverage": 22,
+          "visibility": 17.7,
+          "top_3_count": 24,
+          "top_10_count": 24,
+          "threat_score": 21.6
+        },
+        {
+          "name": "Peak Comfort Systems",
+          "address": "",
+          "rating": 4.9,
+          "reviews": 82,
+          "avg_rank": 1.8,
+          "coverage": 22,
+          "visibility": 16.9,
+          "top_3_count": 24,
+          "top_10_count": 24,
+          "threat_score": 21.6
+        },
+        {
+          "name": "Mile High HVAC Supply",
+          "address": "",
+          "rating": 3.7,
+          "reviews": 21,
+          "avg_rank": 1.9,
+          "coverage": 16,
+          "visibility": 12,
+          "top_3_count": 18,
+          "top_10_count": 18,
+          "threat_score": 16.2
+        },
+        {
+          "name": "Boulder Heat Pump Co.",
+          "address": "4770 Baseline Rd, Boulder, CO",
+          "rating": 4.3,
+          "reviews": 6,
+          "avg_rank": 8.6,
+          "coverage": 95,
+          "visibility": 8.7,
+          "top_3_count": 16,
+          "top_10_count": 73,
+          "threat_score": 48.6
+        },
+        {
+          "name": "Summit Climate Services",
+          "address": "1600 Range St, Boulder, CO",
+          "rating": 4.4,
+          "reviews": 36,
+          "avg_rank": 9.2,
+          "coverage": 40,
+          "visibility": 7.8,
+          "top_3_count": 13,
+          "top_10_count": 27,
+          "threat_score": 19.8
+        },
+        {
+          "name": "Greenline Mechanical",
+          "address": "5485 Arapahoe Ave, Boulder, CO",
+          "rating": 4.4,
+          "reviews": 49,
+          "avg_rank": 7.6,
+          "coverage": 64,
+          "visibility": 7.3,
+          "top_3_count": 11,
+          "top_10_count": 52,
+          "threat_score": 21.6
+        },
+        {
+          "name": "Clearview Heating Co.",
+          "address": "",
+          "rating": 5,
+          "reviews": 12,
+          "avg_rank": 1.4,
+          "coverage": 8,
+          "visibility": 7.1,
+          "top_3_count": 9,
+          "top_10_count": 9,
+          "threat_score": 8.1
+        },
+        {
+          "name": "Mile High HVAC Supply",
+          "address": "880 S 104th St, Louisville, CO",
+          "rating": 3.7,
+          "reviews": 21,
+          "avg_rank": 9.1,
+          "coverage": 70,
+          "visibility": 5.5,
+          "top_3_count": 11,
+          "top_10_count": 51,
+          "threat_score": 24.3
+        },
+        {
+          "name": "Peak Comfort Systems",
+          "address": "6395 Gunpark Dr, Boulder, CO",
+          "rating": 4.9,
+          "reviews": 82,
+          "avg_rank": 11,
+          "coverage": 93,
+          "visibility": 4.2,
+          "top_3_count": 7,
+          "top_10_count": 43,
+          "threat_score": 23.4
+        },
+        {
+          "name": "Matlock Heating & Cooling",
+          "address": "3300 Walnut St, Boulder, CO",
+          "rating": 2.9,
+          "reviews": 27,
+          "avg_rank": 8.1,
+          "coverage": 22,
+          "visibility": 4,
+          "top_3_count": 7,
+          "top_10_count": 16,
+          "threat_score": 12.6
+        },
+        {
+          "name": "Streamline Building Tech",
+          "address": "",
+          "rating": 5,
+          "reviews": 36,
+          "avg_rank": 9.6,
+          "coverage": 31,
+          "visibility": 3.7,
+          "top_3_count": 9,
+          "top_10_count": 20,
+          "threat_score": 13.5
+        },
+        {
+          "name": "Alpine Cooling Service",
+          "address": "105 S Public Rd, Lafayette, CO",
+          "rating": 3.5,
+          "reviews": 14,
+          "avg_rank": 10.9,
+          "coverage": 50,
+          "visibility": 3.6,
+          "top_3_count": 9,
+          "top_10_count": 26,
+          "threat_score": 17.1
+        },
+        {
+          "name": "Flatiron Plumbing & Heating",
+          "address": "2890 Valmont Rd, Boulder, CO",
+          "rating": 4.8,
+          "reviews": 78,
+          "avg_rank": 9.5,
+          "coverage": 44,
+          "visibility": 3.3,
+          "top_3_count": 6,
+          "top_10_count": 29,
+          "threat_score": 21.6
+        }
+      ],
+      "recommendations": [
+        {
+          "type": "warning",
+          "icon": "eye-off",
+          "title": "Low top-3 visibility",
+          "description": "A 10.2% visibility score means most nearby searches do not surface you in the top 3 map results — the positions that capture the large majority of calls. The fastest levers: review velocity, keyword-rich service descriptions, and fresh photos."
+        },
+        {
+          "type": "success",
+          "icon": "trending-up",
+          "title": "Positive momentum",
+          "description": "Average map ranking has improved 18.4% since tracking began in December 2025 (position 10.3 → 8.4). The work is compounding — hold the course."
+        },
+        {
+          "type": "info",
+          "icon": "compass",
+          "title": "Weak area: north of downtown",
+          "description": "Rankings are weakest in the northern third of the service area (average position 10.3). Targeting North Boulder and Gunbarrel by name in service pages and GBP posts would close the gap."
+        }
+      ]
+    },
+    "snapshots": [
+      {
+        "snapshot_at": "2025-12-23T13:29:26+00:00",
+        "label": "23 December 2025 13:29",
+        "short_label": "23 Dec",
+        "month_year": "December 2025",
+        "avg_rank": 10.3,
+        "change_from_previous": 0,
+        "top_3_count": 16,
+        "top_10_count": 48,
+        "below_top_10_count": 47,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 8.8
+      },
+      {
+        "snapshot_at": "2026-01-26T08:05:20+00:00",
+        "label": "26 January 2026 08:05",
+        "short_label": "26 Jan",
+        "month_year": "January 2026",
+        "avg_rank": 9.1,
+        "change_from_previous": -1.2,
+        "top_3_count": 28,
+        "top_10_count": 40,
+        "below_top_10_count": 43,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 15.1
+      },
+      {
+        "snapshot_at": "2026-01-26T14:05:22+00:00",
+        "label": "26 January 2026 14:05",
+        "short_label": "26 Jan",
+        "month_year": "January 2026",
+        "avg_rank": 10.7,
+        "change_from_previous": 1.6,
+        "top_3_count": 21,
+        "top_10_count": 40,
+        "below_top_10_count": 50,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 9.4
+      },
+      {
+        "snapshot_at": "2026-03-02T08:06:03+00:00",
+        "label": "2 March 2026 08:06",
+        "short_label": "2 Mar",
+        "month_year": "March 2026",
+        "avg_rank": 9.5,
+        "change_from_previous": -1.2,
+        "top_3_count": 22,
+        "top_10_count": 44,
+        "below_top_10_count": 45,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 11.2
+      },
+      {
+        "snapshot_at": "2026-03-02T14:06:10+00:00",
+        "label": "2 March 2026 14:06",
+        "short_label": "2 Mar",
+        "month_year": "March 2026",
+        "avg_rank": 10.6,
+        "change_from_previous": 1.1,
+        "top_3_count": 18,
+        "top_10_count": 44,
+        "below_top_10_count": 49,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 10
+      },
+      {
+        "snapshot_at": "2026-04-06T07:06:13+00:00",
+        "label": "6 April 2026 07:06",
+        "short_label": "6 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 8.5,
+        "change_from_previous": -2.1,
+        "top_3_count": 1,
+        "top_10_count": 9,
+        "below_top_10_count": 5,
+        "not_ranking_count": 96,
+        "total_pins": 111,
+        "visibility_score": 0.4
+      },
+      {
+        "snapshot_at": "2026-04-06T13:06:35+00:00",
+        "label": "6 April 2026 13:06",
+        "short_label": "6 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 0,
+        "change_from_previous": -8.5,
+        "top_3_count": 0,
+        "top_10_count": 0,
+        "below_top_10_count": 0,
+        "not_ranking_count": 111,
+        "total_pins": 111,
+        "visibility_score": 0
+      },
+      {
+        "snapshot_at": "2026-04-08T12:12:14+00:00",
+        "label": "8 April 2026 12:12",
+        "short_label": "8 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 9.9,
+        "change_from_previous": 9.9,
+        "top_3_count": 26,
+        "top_10_count": 38,
+        "below_top_10_count": 47,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 11.8
+      },
+      {
+        "snapshot_at": "2026-04-13T07:20:49+00:00",
+        "label": "13 April 2026 07:20",
+        "short_label": "13 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 9.4,
+        "change_from_previous": -0.5,
+        "top_3_count": 18,
+        "top_10_count": 50,
+        "below_top_10_count": 42,
+        "not_ranking_count": 1,
+        "total_pins": 111,
+        "visibility_score": 10.6
+      },
+      {
+        "snapshot_at": "2026-04-13T13:21:30+00:00",
+        "label": "13 April 2026 13:21",
+        "short_label": "13 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.8,
+        "change_from_previous": 1.4,
+        "top_3_count": 17,
+        "top_10_count": 44,
+        "below_top_10_count": 49,
+        "not_ranking_count": 1,
+        "total_pins": 111,
+        "visibility_score": 10
+      },
+      {
+        "snapshot_at": "2026-04-13T19:21:37+00:00",
+        "label": "13 April 2026 19:21",
+        "short_label": "13 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.3,
+        "change_from_previous": -0.5,
+        "top_3_count": 20,
+        "top_10_count": 43,
+        "below_top_10_count": 48,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 10.2
+      },
+      {
+        "snapshot_at": "2026-04-14T01:36:08+00:00",
+        "label": "14 April 2026 01:36",
+        "short_label": "14 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.4,
+        "change_from_previous": 0.1,
+        "top_3_count": 15,
+        "top_10_count": 48,
+        "below_top_10_count": 48,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 8.1
+      },
+      {
+        "snapshot_at": "2026-04-14T07:50:53+00:00",
+        "label": "14 April 2026 07:50",
+        "short_label": "14 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 9.6,
+        "change_from_previous": -0.8,
+        "top_3_count": 19,
+        "top_10_count": 45,
+        "below_top_10_count": 42,
+        "not_ranking_count": 5,
+        "total_pins": 111,
+        "visibility_score": 11.6
+      },
+      {
+        "snapshot_at": "2026-04-14T13:51:39+00:00",
+        "label": "14 April 2026 13:51",
+        "short_label": "14 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 11,
+        "change_from_previous": 1.4,
+        "top_3_count": 16,
+        "top_10_count": 39,
+        "below_top_10_count": 50,
+        "not_ranking_count": 6,
+        "total_pins": 111,
+        "visibility_score": 7.5
+      },
+      {
+        "snapshot_at": "2026-04-14T20:06:50+00:00",
+        "label": "14 April 2026 20:06",
+        "short_label": "14 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.4,
+        "change_from_previous": -0.6,
+        "top_3_count": 22,
+        "top_10_count": 40,
+        "below_top_10_count": 48,
+        "not_ranking_count": 1,
+        "total_pins": 111,
+        "visibility_score": 10
+      },
+      {
+        "snapshot_at": "2026-04-15T02:06:52+00:00",
+        "label": "15 April 2026 02:06",
+        "short_label": "15 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.6,
+        "change_from_previous": 0.2,
+        "top_3_count": 18,
+        "top_10_count": 42,
+        "below_top_10_count": 46,
+        "not_ranking_count": 5,
+        "total_pins": 111,
+        "visibility_score": 8.6
+      },
+      {
+        "snapshot_at": "2026-04-15T08:21:08+00:00",
+        "label": "15 April 2026 08:21",
+        "short_label": "15 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 9.4,
+        "change_from_previous": -1.2,
+        "top_3_count": 20,
+        "top_10_count": 46,
+        "below_top_10_count": 45,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 9.4
+      },
+      {
+        "snapshot_at": "2026-04-15T14:21:33+00:00",
+        "label": "15 April 2026 14:21",
+        "short_label": "15 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.6,
+        "change_from_previous": 1.2,
+        "top_3_count": 16,
+        "top_10_count": 45,
+        "below_top_10_count": 49,
+        "not_ranking_count": 1,
+        "total_pins": 111,
+        "visibility_score": 8.7
+      },
+      {
+        "snapshot_at": "2026-04-15T20:21:48+00:00",
+        "label": "15 April 2026 20:21",
+        "short_label": "15 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.2,
+        "change_from_previous": -0.4,
+        "top_3_count": 20,
+        "top_10_count": 43,
+        "below_top_10_count": 48,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 10.8
+      },
+      {
+        "snapshot_at": "2026-04-16T02:36:02+00:00",
+        "label": "16 April 2026 02:36",
+        "short_label": "16 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 10.3,
+        "change_from_previous": 0.1,
+        "top_3_count": 15,
+        "top_10_count": 49,
+        "below_top_10_count": 47,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 8.7
+      },
+      {
+        "snapshot_at": "2026-04-16T08:51:20+00:00",
+        "label": "16 April 2026 08:51",
+        "short_label": "16 Apr",
+        "month_year": "April 2026",
+        "avg_rank": 9.2,
+        "change_from_previous": -1.1,
+        "top_3_count": 20,
+        "top_10_count": 44,
+        "below_top_10_count": 43,
+        "not_ranking_count": 4,
+        "total_pins": 111,
+        "visibility_score": 12.5
+      },
+      {
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "label": "18 May 2026 07:08",
+        "short_label": "18 May",
+        "month_year": "May 2026",
+        "avg_rank": 8.4,
+        "change_from_previous": -0.8,
+        "top_3_count": 17,
+        "top_10_count": 61,
+        "below_top_10_count": 33,
+        "not_ranking_count": 0,
+        "total_pins": 111,
+        "visibility_score": 10.2
+      }
+    ],
+    "pins": [
+      {
+        "lat": 39.8802533,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 9,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Matlock Heating & Cooling",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.8883795,
+        "lng": -105.3306743,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 9,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Rocky Mountain Refrigeration",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Matlock Heating & Cooling",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.8883795,
+        "lng": -105.2103257,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 10,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Matlock Heating & Cooling",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "OhmWatt Energy",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Sparky's Electric & HVAC",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "WaBeck Supply — Louisville",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9117781,
+        "lng": -105.3835908,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 6,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Rocky Mountain Refrigeration",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9117781,
+        "lng": -105.1574092,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 12,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "OhmWatt Energy",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "WaBeck Supply — Louisville",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9251689,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 7,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Matlock Heating & Cooling",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.937204,
+        "lng": -105.329146,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 3,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.937204,
+        "lng": -105.211854,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 8,
+        "results": [
+          {
+            "place_id": null,
+            "name": "OhmWatt Energy",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Matlock Heating & Cooling",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9476267,
+        "lng": -105.4228667,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 9,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Marlowe Installation Services",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9476267,
+        "lng": -105.1181333,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 17,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "WaBeck Supply — Louisville",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "OhmWatt Energy",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9700844,
+        "lng": -105.3720778,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 7,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9700844,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 4,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "MV Refrigeration",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9700844,
+        "lng": -105.1689222,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 13,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "OhmWatt Energy",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9916015,
+        "lng": -105.4437651,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 13,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Marlowe Installation Services",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9916015,
+        "lng": -105.0972349,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Energy Center Colorado",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9925422,
+        "lng": -105.3212889,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 5,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 39.9925422,
+        "lng": -105.2197111,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 5,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "MV Refrigeration",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.015,
+        "lng": -105.387792,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 11,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.015,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 4,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "MV Refrigeration",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.015,
+        "lng": -105.153208,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 16,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "ServiceLux Boulder",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "North Side Waterworks",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Alpine Cooling Service",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0374578,
+        "lng": -105.3212889,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 8,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Kirko Heating",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0374578,
+        "lng": -105.2197111,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 6,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "MV Refrigeration",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "North Side Waterworks",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0383985,
+        "lng": -105.4437651,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 13,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Summit Climate Services",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0383985,
+        "lng": -105.0972349,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Energy Center Colorado",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Pearl Street Plumbing & Heat",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Canyon Pipe & Heat",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0599156,
+        "lng": -105.3720778,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 18,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Kirko Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Heat LLC",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0599156,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 6,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "We Know Comfort",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0599156,
+        "lng": -105.1689222,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 17,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "H&K Plumbing & Mechanical",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps Inc.",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "ServiceLux Boulder",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0823733,
+        "lng": -105.4228667,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 19,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Geothermal",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Streamline Building Tech",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.0823733,
+        "lng": -105.1181333,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Peak Comfort Systems",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Energy Center Colorado",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.092796,
+        "lng": -105.329146,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 17,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Kirko Heating",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.092796,
+        "lng": -105.211854,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 13,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "SmartPipe Plumbing",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps Inc.",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Boulder Heat Pump Co.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1048311,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 17,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "O'Rourke Pipe Installation",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "WaBeck Supply — Boulder",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "SmartPipe Plumbing",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1182219,
+        "lng": -105.3835908,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "HMK Building Systems",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Kirko Heating",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "Mile High HVAC Supply",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1182219,
+        "lng": -105.1574092,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Greenline Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "American Heat Pumps Inc.",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1416205,
+        "lng": -105.3306743,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "HMK Building Systems",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Kerrick Mechanical",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "Mesa Automation Center",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "J. Mickelson HVAC",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "AirSun Heat Pumps",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1416205,
+        "lng": -105.2103257,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 16,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Flatiron Plumbing & Heating",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "SmartPipe Plumbing",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Front Range Mechanical",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "PL Heat Pumps",
+            "rank": 5
+          }
+        ]
+      },
+      {
+        "lat": 40.1497467,
+        "lng": -105.2705,
+        "keyword": "heat pump installation",
+        "snapshot_at": "2026-05-18T07:08:06+00:00",
+        "target_rank": 21,
+        "results": [
+          {
+            "place_id": null,
+            "name": "Apex Mountain Air",
+            "rank": 1
+          },
+          {
+            "place_id": null,
+            "name": "Clearview Heating Co.",
+            "rank": 2
+          },
+          {
+            "place_id": null,
+            "name": "AirSun Heat Pumps",
+            "rank": 3
+          },
+          {
+            "place_id": null,
+            "name": "Vista Electric Service",
+            "rank": 4
+          },
+          {
+            "place_id": null,
+            "name": "HMK Building Systems",
+            "rank": 5
+          }
+        ]
+      }
+    ],
+    "pinsMeta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 1,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Previous",
+          "active": false
+        },
+        {
+          "url": "https://app.your-white-label.com/api/agency/v1/scans/00000000-0000-0000-0000-000000000000/data_points?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": null,
+          "label": "Next &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://app.your-white-label.com/api/agency/v1/scans/00000000-0000-0000-0000-000000000000/data_points",
+      "per_page": 500,
+      "to": 37,
+      "total": 37,
+      "scan_uuid": "00000000-0000-0000-0000-000000000000",
+      "snapshot_at": "2026-05-18T07:08:06+00:00",
+      "keyword": "ilmalämpöpumppu",
+      "top_n": 5
+    },
+    "center": {
+      "lat": 40.015,
+      "lng": -105.2705
+    }
+  }
+}

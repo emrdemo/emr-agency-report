@@ -1,0 +1,22 @@
+{
+  "name": "emr-agency-report",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "White-label monthly PDF report generator for EmbedMyReviews (EMR) agencies: AI Insights + review statistics + Local Search Grid (competitor analytics + a map of grid pins).",
+  "license": "MIT",
+  "author": "emrdemo",
+  "scripts": {
+    "report": "node src/index.js",
+    "report:demo": "node src/index.js --demo",
+    "report:fixtures": "node src/index.js --fixtures",
+    "report:html": "node src/index.js --html-only",
+    "fetch": "node src/index.js --save-fixtures --html-only"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
