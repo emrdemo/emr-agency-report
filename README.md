@@ -46,7 +46,7 @@ that's already in your `.env`, and write everything in for you. Paste this:
 
 ```
 You're in the emr-agency-report project folder. Configure a monthly report for my
-client "<CLIENT NAME>" (location in <CITY / ADDRESS>). Do all of this, then stop:
+client "<ORGANIZATION NAME>" (location <LOCATION>). Do all of this, then stop:
 
 1. If .env doesn't exist yet, copy it from .env.example.
 2. Using my <YOUR EMR MCP NAME> MCP tools:
